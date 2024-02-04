@@ -1,7 +1,12 @@
-### Hi there 👋
+<img src="gracehere.png" height="200">
+
+Nice to meet you, I'm Grace! 👋 A software developer currently working in the tech consulting space. Currently exploring an interest in design, frontend development and generative AI.
+
+📫 Reach me at: gracesubianto@gmail.com<br/>
+🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
 
 <!--
-**gracesubianto/gracesubianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gracevs333/gracevs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
