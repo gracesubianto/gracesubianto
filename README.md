@@ -5,8 +5,6 @@ Nice to meet you, I'm Grace! 👋 A software developer currently working in the 
 📫 Reach me at: gracesubianto@gmail.com<br/>
 🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
 
-TEST
-
 <!--
 **gracevs333/gracevs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
