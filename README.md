@@ -1,6 +1,8 @@
 <img src="gracehere.png" height="200">
 
-Nice to meet you, I'm Grace! 👋 A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
+<h2>Nice to meet you, I'm Grace! 👋  <a href="https://github.com/gracesubianto"> <img src="https://visitor-badge.laobi.icu/badge?page_id=gracesubianto" alt="Visitors"></a></h2>
+
+A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
 
 📫 Reach me at: gracesubianto@gmail.com<br/>
 🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
