@@ -1,6 +1,8 @@
+<h2>Nice to meet you, I'm Grace! 👋</h2>
+
 <img src="gracehere.png" height="200">
 
-<h2>Nice to meet you, I'm Grace! 👋  <a href="https://github.com/gracesubianto"> <img src="https://visitor-badge.laobi.icu/badge?page_id=gracesubianto" alt="Visitors"></a></h2>
+![Visitor Count](https://profile-counter.glitch.me/gracesubianto/count.svg)
 
 A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
 
