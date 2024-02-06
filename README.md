@@ -2,7 +2,7 @@
 
 <img src="gracehere.png" height="200">
 
-![Visitor Count](https://profile-counter.glitch.me/gracesubianto/count.svg)
+![](https://komarev.com/ghpvc/?username=gracesubianto&color=blueviolet)
 
 A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
 
