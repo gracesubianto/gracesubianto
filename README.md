@@ -2,7 +2,7 @@
 
 <img src="gracehere.png" height="200">
 
-![](https://komarev.com/ghpvc/?username=gracesubianto&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=gracesubianto&color=2D9758)
 
 A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
 
