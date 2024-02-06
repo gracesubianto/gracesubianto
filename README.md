@@ -2,24 +2,15 @@
 
 <img src="gracehere.png" height="200">
 
-![](https://komarev.com/ghpvc/?username=gracesubianto&color=2D9758)
-
 A software developer working in the tech consulting space. Currently exploring an interest in frontend development and design thinking.
 
-📫 Reach me at: gracesubianto@gmail.com<br/>
-🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
+📫 Reach me at:
+<a href="https://www.linkedin.com/in/gracesubianto/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/>
+🔎 Connect with me here:
+<a href="mailto:gracesubianto@gmail.com">
+<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/>
 
-<!--
-**gracevs333/gracevs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=gracesubianto&color=2D9758)
